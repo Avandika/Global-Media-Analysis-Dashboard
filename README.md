@@ -120,6 +120,7 @@ Analyzes movie releases across different years.
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Interactive Data Visualization
+- Interactive Dashboard Design
 
 ---
 
@@ -224,10 +225,22 @@ Movie-Analysis-Dashboard/
 
 **B.Tech Computer Science Graduate**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+Aspiring Data Analyst
+
+Skills:
+• Power BI
+• SQL
+• Python
+• Excel
 
 ---
 
 ## ⭐ Support
 
 If you found this project useful or interesting, consider giving this repository a ⭐ on GitHub.
+
+---
+
+## 📜 License
+
+This project is intended for educational and portfolio purposes.
