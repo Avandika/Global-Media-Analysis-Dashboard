@@ -1,4 +1,4 @@
-# 🎬 Movie Analysis Dashboard
+# 🎬 Global Media Analysis Dashboard 
 
 An interactive **Movie Analysis Dashboard** built using **Microsoft Power BI** to analyze movie trends, ratings, popularity, genres, and release patterns. The project demonstrates the complete data analysis workflow—from data cleaning and transformation to modeling and visualization—using an interactive dashboard.
 
